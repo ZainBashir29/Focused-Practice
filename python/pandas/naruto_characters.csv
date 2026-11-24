@@ -1,0 +1,177 @@
+Name,Village,Rank,Chakra_Nature,Power_Level
+Naruto Uzumaki,Konohagakure,Hokage,Wind,99
+Sasuke Uchiha,Konohagakure,Shadow Hokage,Lightning,98
+Sakura Haruno,Konohagakure,Jonin,Earth,86
+Kakashi Hatake,Konohagakure,Hokage,Lightning,90
+Itachi Uchiha,Konohagakure,Anbu,Fire,94
+Madara Uchiha,Konohagakure,Rogue,Fire,99
+Hashirama Senju,Konohagakure,Hokage,Wood,99
+Tobirama Senju,Konohagakure,Hokage,Water,93
+Hiruzen Sarutobi,Konohagakure,Hokage,Fire,89
+Minato Namikaze,Konohagakure,Hokage,Wind,95
+Tsunade,Konohagakure,Hokage,Lightning,88
+Jiraiya,Konohagakure,Sannin,Fire,91
+Orochimaru,Otogakure,Sannin,Wind,91
+Gaara,Sunagakure,Kazekage,Wind,90
+Temari,Sunagakure,Jonin,Wind,80
+Kankuro,Sunagakure,Jonin,Wind,78
+Shikamaru Nara,Konohagakure,Jonin,Shadow,82
+Ino Yamanaka,Konohagakure,Jonin,Water,76
+Choji Akimichi,Konohagakure,Jonin,Earth,81
+Hinata Hyuga,Konohagakure,Chunin,Lightning,79
+Neji Hyuga,Konohagakure,Jonin,Fire,84
+Rock Lee,Konohagakure,Jonin,None,85
+Tenten,Konohagakure,Chunin,Fire,74
+Might Guy,Konohagakure,Jonin,Fire,94
+Kiba Inuzuka,Konohagakure,Chunin,Earth,76
+Shino Aburame,Konohagakure,Jonin,Earth,80
+Kurenai Yuhi,Konohagakure,Jonin,Fire,77
+Asuma Sarutobi,Konohagakure,Jonin,Wind,83
+Konohamaru Sarutobi,Konohagakure,Jonin,Fire,82
+Iruka Umino,Konohagakure,Chunin,Water,65
+Sai,Konohagakure,Anbu,Earth,81
+Yamato,Konohagakure,Anbu,Wood,84
+Danzo Shimura,Konohagakure,Elder,Wind,88
+Obito Uchiha,Konohagakure,Rogue,Fire,96
+Rin Nohara,Konohagakure,Chunin,Water,68
+Shisui Uchiha,Konohagakure,Anbu,Fire,92
+Fugaku Uchiha,Konohagakure,Jonin,Fire,86
+Mikoto Uchiha,Konohagakure,Jonin,Fire,75
+Kushina Uzumaki,Konohagakure,Jonin,Wind,87
+Mito Uzumaki,Konohagakure,Jonin,Water,89
+Nagato,Amegakure,Leader,Wind,96
+Konan,Amegakure,Leader,Paper,87
+Yahiko,Amegakure,Leader,Water,83
+Hanzo,Amegakure,Leader,Water,89
+Kisame Hoshigaki,Kirigakure,Rogue,Water,91
+Zabuza Momochi,Kirigakure,Rogue,Water,83
+Haku,Kirigakure,Rogue,Ice,79
+Mei Terumi,Kirigakure,Mizukage,Lava,88
+Chojuro,Kirigakure,Mizukage,Water,84
+Ao,Kirigakure,Jonin,Water,78
+Suigetsu Hozuki,Kirigakure,Rogue,Water,80
+Mangetsu Hozuki,Kirigakure,Jonin,Water,85
+Gengetsu Hozuki,Kirigakure,Mizukage,Water,91
+Yagura Karatachi,Kirigakure,Mizukage,Water,89
+Utakata,Kirigakure,Rogue,Water,85
+A (Fourth Raikage),Kumogakure,Raikage,Lightning,91
+A (Third Raikage),Kumogakure,Raikage,Lightning,94
+Killer Bee,Kumogakure,Jonin,Lightning,93
+Darui,Kumogakure,Raikage,Storm,87
+Cee,Kumogakure,Jonin,Lightning,77
+Omoi,Kumogakure,Jonin,Lightning,78
+Karui,Kumogakure,Chunin,Lightning,75
+Samui,Kumogakure,Jonin,Water,79
+Atsui,Kumogakure,Chunin,Fire,74
+Mabui,Kumogakure,Jonin,Lightning,72
+Dodai,Kumogakure,Jonin,Lava,80
+Yugito Nii,Kumogakure,Jonin,Fire,86
+Kinkaku,Kumogakure,Rogue,Lightning,88
+Ginkaku,Kumogakure,Rogue,Lightning,87
+Onoki,Iwagakure,Tsuchikage,Dust,92
+Mu,Iwagakure,Tsuchikage,Dust,93
+Kurotsuchi,Iwagakure,Tsuchikage,Lava,85
+Akatsuchi,Iwagakure,Jonin,Earth,81
+Deidara,Iwagakure,Rogue,Explosion,88
+Kitsuchi,Iwagakure,Jonin,Earth,84
+Roshi,Iwagakure,Rogue,Lava,87
+Han,Iwagakure,Rogue,Boil,86
+Sasori,Sunagakure,Rogue,Magnet,89
+Chiyo,Sunagakure,Elder,Wind,86
+Ebizo,Sunagakure,Elder,Wind,76
+Baki,Sunagakure,Jonin,Wind,80
+Rasa,Sunagakure,Kazekage,Magnet,88
+Pakura,Sunagakure,Jonin,Scorch,85
+Maki,Sunagakure,Jonin,Wind,75
+Shira,Sunagakure,Chunin,None,77
+Yura,Sunagakure,Jonin,Wind,74
+Hidan,Yugakure,Rogue,None,84
+Kakuzu,Takigakure,Rogue,Earth,89
+Fu,Takigakure,Genin,Wind,83
+Shibuki,Takigakure,Leader,Water,68
+Kabuto Yakushi,Otogakure,Rogue,Earth,92
+Kimimaro,Otogakure,Rogue,Earth,86
+Jugo,Otogakure,Rogue,Wind,83
+Karin,Otogakure,Rogue,Water,76
+Tayuya,Otogakure,Genin,Wind,74
+Sakon,Otogakure,Genin,Earth,74
+Ukon,Otogakure,Genin,Earth,74
+Kidomaru,Otogakure,Genin,Earth,75
+Jirobo,Otogakure,Genin,Earth,73
+Dosu Kinuta,Otogakure,Genin,Wind,71
+Zaku Abumi,Otogakure,Genin,Wind,69
+Kin Tsuchi,Otogakure,Genin,Wind,68
+Guren,Otogakure,Rogue,Crystal,83
+Mifune,Land of Iron,General,None,86
+Okisuke,Land of Iron,Samurai,None,75
+Urakaku,Land of Iron,Samurai,None,73
+Kaguya Otsutsuki,Other,God,All,100
+Hagoromo Otsutsuki,Other,Sage,All,99
+Hamura Otsutsuki,Other,Sage,All,98
+Indra Otsutsuki,Other,Sage,Lightning,96
+Ashura Otsutsuki,Other,Sage,Wind,96
+Toneri Otsutsuki,Other,Leader,Wind,94
+Momoshiki Otsutsuki,Other,God,All,98
+Kinshiki Otsutsuki,Other,Guardian,Earth,93
+Urashiki Otsutsuki,Other,Scout,Lightning,91
+Isshiki Otsutsuki,Other,God,Fire,99
+Zetsu,Other,Rogue,Wood,78
+Hiashi Hyuga,Konohagakure,Jonin,Fire,83
+Hizashi Hyuga,Konohagakure,Jonin,Fire,82
+Hanabi Hyuga,Konohagakure,Jonin,Lightning,78
+Shikaku Nara,Konohagakure,Jonin,Shadow,85
+Inoichi Yamanaka,Konohagakure,Jonin,Water,82
+Choza Akimichi,Konohagakure,Jonin,Earth,83
+Tsume Inuzuka,Konohagakure,Jonin,Earth,79
+Hana Inuzuka,Konohagakure,Chunin,Earth,75
+Shibi Aburame,Konohagakure,Jonin,Earth,82
+Anko Mitarashi,Konohagakure,Jonin,Fire,78
+Ibiki Morino,Konohagakure,Jonin,Earth,77
+Hayate Gekko,Konohagakure,Jonin,Wind,76
+Yugao Uzuki,Konohagakure,Anbu,Wind,77
+Genma Shiranui,Konohagakure,Jonin,Wind,79
+Raido Namiashi,Konohagakure,Jonin,Lightning,78
+Aoba Yamashiro,Konohagakure,Jonin,Fire,78
+Kotetsu Hagane,Konohagakure,Chunin,Water,72
+Izumo Kamizuki,Konohagakure,Chunin,Water,72
+Ebisu,Konohagakure,Jonin,Fire,71
+Mizuki,Konohagakure,Chunin,Wind,67
+Moegi Kazamatsuri,Konohagakure,Jonin,Earth,77
+Udon Ise,Konohagakure,Jonin,Water,76
+Boruto Uzumaki,Konohagakure,Genin,Lightning,88
+Sarada Uchiha,Konohagakure,Chunin,Fire,85
+Mitsuki,Konohagakure,Genin,Wind,86
+Kawaki,Konohagakure,Genin,Fire,92
+Shikadai Nara,Konohagakure,Chunin,Wind,80
+Inojin Yamanaka,Konohagakure,Genin,Water,76
+Chocho Akimichi,Konohagakure,Genin,Lightning,77
+Metal Lee,Konohagakure,Genin,None,76
+Sumire Kakei,Konohagakure,Genin,Water,79
+Shinki,Sunagakure,Genin,Magnet,83
+Yodo,Sunagakure,Genin,Wind,76
+Araya,Sunagakure,Genin,Wind,76
+Kagura Karatachi,Kirigakure,Chunin,Water,81
+Buntan Kurosuki,Kirigakure,Genin,Lightning,77
+Shizuma Hoshigaki,Kirigakure,Rogue,Water,79
+Mirai Sarutobi,Konohagakure,Chunin,Wind,80
+Mugino,Konohagakure,Jonin,Earth,79
+Victor,Other,Rogue,All,86
+Deepa,Other,Rogue,Earth,87
+Boro,Other,Rogue,Lava,89
+Delta,Other,Rogue,None,90
+Code,Other,Rogue,None,95
+Koji Kashin,Other,Rogue,Fire,92
+Amado,Konohagakure,Scientist,None,60
+Sakumo Hatake,Konohagakure,Jonin,Lightning,91
+Might Duy,Konohagakure,Genin,None,84
+Izuna Uchiha,Konohagakure,Jonin,Fire,89
+Tajima Uchiha,Konohagakure,Leader,Fire,85
+Butsuma Senju,Konohagakure,Leader,Water,85
+Nawaki,Konohagakure,Genin,Earth,66
+Dan Kato,Konohagakure,Jonin,Wind,82
+Shizune,Konohagakure,Jonin,Water,78
+Tazuna,Land of Waves,Civilian,None,20
+Inari,Land of Waves,Civilian,None,15
+Gato,Land of Waves,Civilian,None,25
+Teuchi,Konohagakure,Civilian,Fire,50
+Ayame,Konohagakure,Civilian,Water,40

@@ -1,0 +1,1234 @@
+[
+  {
+    "Name": "Naruto Uzumaki",
+    "Village": "Konohagakure",
+    "Rank": "Hokage",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 99
+  },
+  {
+    "Name": "Sasuke Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Shadow Hokage",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 98
+  },
+  {
+    "Name": "Sakura Haruno",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Kakashi Hatake",
+    "Village": "Konohagakure",
+    "Rank": "Hokage",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 90
+  },
+  {
+    "Name": "Itachi Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Anbu",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 94
+  },
+  {
+    "Name": "Madara Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 99
+  },
+  {
+    "Name": "Hashirama Senju",
+    "Village": "Konohagakure",
+    "Rank": "Hokage",
+    "Chakra_Nature": "Wood",
+    "Power_Level": 99
+  },
+  {
+    "Name": "Tobirama Senju",
+    "Village": "Konohagakure",
+    "Rank": "Hokage",
+    "Chakra_Nature": "Water",
+    "Power_Level": 93
+  },
+  {
+    "Name": "Hiruzen Sarutobi",
+    "Village": "Konohagakure",
+    "Rank": "Hokage",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Minato Namikaze",
+    "Village": "Konohagakure",
+    "Rank": "Hokage",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 95
+  },
+  {
+    "Name": "Tsunade",
+    "Village": "Konohagakure",
+    "Rank": "Hokage",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 88
+  },
+  {
+    "Name": "Jiraiya",
+    "Village": "Konohagakure",
+    "Rank": "Sannin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 91
+  },
+  {
+    "Name": "Orochimaru",
+    "Village": "Otogakure",
+    "Rank": "Sannin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 91
+  },
+  {
+    "Name": "Gaara",
+    "Village": "Sunagakure",
+    "Rank": "Kazekage",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 90
+  },
+  {
+    "Name": "Temari",
+    "Village": "Sunagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 80
+  },
+  {
+    "Name": "Kankuro",
+    "Village": "Sunagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Shikamaru Nara",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Shadow",
+    "Power_Level": 82
+  },
+  {
+    "Name": "Ino Yamanaka",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Choji Akimichi",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 81
+  },
+  {
+    "Name": "Hinata Hyuga",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Neji Hyuga",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 84
+  },
+  {
+    "Name": "Rock Lee",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": NaN,
+    "Power_Level": 85
+  },
+  {
+    "Name": "Tenten",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 74
+  },
+  {
+    "Name": "Might Guy",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 94
+  },
+  {
+    "Name": "Kiba Inuzuka",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Shino Aburame",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 80
+  },
+  {
+    "Name": "Kurenai Yuhi",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 77
+  },
+  {
+    "Name": "Asuma Sarutobi",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Konohamaru Sarutobi",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 82
+  },
+  {
+    "Name": "Iruka Umino",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 65
+  },
+  {
+    "Name": "Sai",
+    "Village": "Konohagakure",
+    "Rank": "Anbu",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 81
+  },
+  {
+    "Name": "Yamato",
+    "Village": "Konohagakure",
+    "Rank": "Anbu",
+    "Chakra_Nature": "Wood",
+    "Power_Level": 84
+  },
+  {
+    "Name": "Danzo Shimura",
+    "Village": "Konohagakure",
+    "Rank": "Elder",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 88
+  },
+  {
+    "Name": "Obito Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 96
+  },
+  {
+    "Name": "Rin Nohara",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 68
+  },
+  {
+    "Name": "Shisui Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Anbu",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 92
+  },
+  {
+    "Name": "Fugaku Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Mikoto Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 75
+  },
+  {
+    "Name": "Kushina Uzumaki",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 87
+  },
+  {
+    "Name": "Mito Uzumaki",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Nagato",
+    "Village": "Amegakure",
+    "Rank": "Leader",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 96
+  },
+  {
+    "Name": "Konan",
+    "Village": "Amegakure",
+    "Rank": "Leader",
+    "Chakra_Nature": "Paper",
+    "Power_Level": 87
+  },
+  {
+    "Name": "Yahiko",
+    "Village": "Amegakure",
+    "Rank": "Leader",
+    "Chakra_Nature": "Water",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Hanzo",
+    "Village": "Amegakure",
+    "Rank": "Leader",
+    "Chakra_Nature": "Water",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Kisame Hoshigaki",
+    "Village": "Kirigakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Water",
+    "Power_Level": 91
+  },
+  {
+    "Name": "Zabuza Momochi",
+    "Village": "Kirigakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Water",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Haku",
+    "Village": "Kirigakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Ice",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Mei Terumi",
+    "Village": "Kirigakure",
+    "Rank": "Mizukage",
+    "Chakra_Nature": "Lava",
+    "Power_Level": 88
+  },
+  {
+    "Name": "Chojuro",
+    "Village": "Kirigakure",
+    "Rank": "Mizukage",
+    "Chakra_Nature": "Water",
+    "Power_Level": 84
+  },
+  {
+    "Name": "Ao",
+    "Village": "Kirigakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Suigetsu Hozuki",
+    "Village": "Kirigakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Water",
+    "Power_Level": 80
+  },
+  {
+    "Name": "Mangetsu Hozuki",
+    "Village": "Kirigakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 85
+  },
+  {
+    "Name": "Gengetsu Hozuki",
+    "Village": "Kirigakure",
+    "Rank": "Mizukage",
+    "Chakra_Nature": "Water",
+    "Power_Level": 91
+  },
+  {
+    "Name": "Yagura Karatachi",
+    "Village": "Kirigakure",
+    "Rank": "Mizukage",
+    "Chakra_Nature": "Water",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Utakata",
+    "Village": "Kirigakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Water",
+    "Power_Level": 85
+  },
+  {
+    "Name": "A (Fourth Raikage)",
+    "Village": "Kumogakure",
+    "Rank": "Raikage",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 91
+  },
+  {
+    "Name": "A (Third Raikage)",
+    "Village": "Kumogakure",
+    "Rank": "Raikage",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 94
+  },
+  {
+    "Name": "Killer Bee",
+    "Village": "Kumogakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 93
+  },
+  {
+    "Name": "Darui",
+    "Village": "Kumogakure",
+    "Rank": "Raikage",
+    "Chakra_Nature": "Storm",
+    "Power_Level": 87
+  },
+  {
+    "Name": "Cee",
+    "Village": "Kumogakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 77
+  },
+  {
+    "Name": "Omoi",
+    "Village": "Kumogakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Karui",
+    "Village": "Kumogakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 75
+  },
+  {
+    "Name": "Samui",
+    "Village": "Kumogakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Atsui",
+    "Village": "Kumogakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 74
+  },
+  {
+    "Name": "Mabui",
+    "Village": "Kumogakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 72
+  },
+  {
+    "Name": "Dodai",
+    "Village": "Kumogakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lava",
+    "Power_Level": 80
+  },
+  {
+    "Name": "Yugito Nii",
+    "Village": "Kumogakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Kinkaku",
+    "Village": "Kumogakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 88
+  },
+  {
+    "Name": "Ginkaku",
+    "Village": "Kumogakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 87
+  },
+  {
+    "Name": "Onoki",
+    "Village": "Iwagakure",
+    "Rank": "Tsuchikage",
+    "Chakra_Nature": "Dust",
+    "Power_Level": 92
+  },
+  {
+    "Name": "Mu",
+    "Village": "Iwagakure",
+    "Rank": "Tsuchikage",
+    "Chakra_Nature": "Dust",
+    "Power_Level": 93
+  },
+  {
+    "Name": "Kurotsuchi",
+    "Village": "Iwagakure",
+    "Rank": "Tsuchikage",
+    "Chakra_Nature": "Lava",
+    "Power_Level": 85
+  },
+  {
+    "Name": "Akatsuchi",
+    "Village": "Iwagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 81
+  },
+  {
+    "Name": "Deidara",
+    "Village": "Iwagakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Explosion",
+    "Power_Level": 88
+  },
+  {
+    "Name": "Kitsuchi",
+    "Village": "Iwagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 84
+  },
+  {
+    "Name": "Roshi",
+    "Village": "Iwagakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Lava",
+    "Power_Level": 87
+  },
+  {
+    "Name": "Han",
+    "Village": "Iwagakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Boil",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Sasori",
+    "Village": "Sunagakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Magnet",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Chiyo",
+    "Village": "Sunagakure",
+    "Rank": "Elder",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Ebizo",
+    "Village": "Sunagakure",
+    "Rank": "Elder",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Baki",
+    "Village": "Sunagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 80
+  },
+  {
+    "Name": "Rasa",
+    "Village": "Sunagakure",
+    "Rank": "Kazekage",
+    "Chakra_Nature": "Magnet",
+    "Power_Level": 88
+  },
+  {
+    "Name": "Pakura",
+    "Village": "Sunagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Scorch",
+    "Power_Level": 85
+  },
+  {
+    "Name": "Maki",
+    "Village": "Sunagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 75
+  },
+  {
+    "Name": "Shira",
+    "Village": "Sunagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": NaN,
+    "Power_Level": 77
+  },
+  {
+    "Name": "Yura",
+    "Village": "Sunagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 74
+  },
+  {
+    "Name": "Hidan",
+    "Village": "Yugakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": NaN,
+    "Power_Level": 84
+  },
+  {
+    "Name": "Kakuzu",
+    "Village": "Takigakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Fu",
+    "Village": "Takigakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Shibuki",
+    "Village": "Takigakure",
+    "Rank": "Leader",
+    "Chakra_Nature": "Water",
+    "Power_Level": 68
+  },
+  {
+    "Name": "Kabuto Yakushi",
+    "Village": "Otogakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 92
+  },
+  {
+    "Name": "Kimimaro",
+    "Village": "Otogakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Jugo",
+    "Village": "Otogakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Karin",
+    "Village": "Otogakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Water",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Tayuya",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 74
+  },
+  {
+    "Name": "Sakon",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 74
+  },
+  {
+    "Name": "Ukon",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 74
+  },
+  {
+    "Name": "Kidomaru",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 75
+  },
+  {
+    "Name": "Jirobo",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 73
+  },
+  {
+    "Name": "Dosu Kinuta",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 71
+  },
+  {
+    "Name": "Zaku Abumi",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 69
+  },
+  {
+    "Name": "Kin Tsuchi",
+    "Village": "Otogakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 68
+  },
+  {
+    "Name": "Guren",
+    "Village": "Otogakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Crystal",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Mifune",
+    "Village": "Land of Iron",
+    "Rank": "General",
+    "Chakra_Nature": NaN,
+    "Power_Level": 86
+  },
+  {
+    "Name": "Okisuke",
+    "Village": "Land of Iron",
+    "Rank": "Samurai",
+    "Chakra_Nature": NaN,
+    "Power_Level": 75
+  },
+  {
+    "Name": "Urakaku",
+    "Village": "Land of Iron",
+    "Rank": "Samurai",
+    "Chakra_Nature": NaN,
+    "Power_Level": 73
+  },
+  {
+    "Name": "Kaguya Otsutsuki",
+    "Village": "Other",
+    "Rank": "God",
+    "Chakra_Nature": "All",
+    "Power_Level": 100
+  },
+  {
+    "Name": "Hagoromo Otsutsuki",
+    "Village": "Other",
+    "Rank": "Sage",
+    "Chakra_Nature": "All",
+    "Power_Level": 99
+  },
+  {
+    "Name": "Hamura Otsutsuki",
+    "Village": "Other",
+    "Rank": "Sage",
+    "Chakra_Nature": "All",
+    "Power_Level": 98
+  },
+  {
+    "Name": "Indra Otsutsuki",
+    "Village": "Other",
+    "Rank": "Sage",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 96
+  },
+  {
+    "Name": "Ashura Otsutsuki",
+    "Village": "Other",
+    "Rank": "Sage",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 96
+  },
+  {
+    "Name": "Toneri Otsutsuki",
+    "Village": "Other",
+    "Rank": "Leader",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 94
+  },
+  {
+    "Name": "Momoshiki Otsutsuki",
+    "Village": "Other",
+    "Rank": "God",
+    "Chakra_Nature": "All",
+    "Power_Level": 98
+  },
+  {
+    "Name": "Kinshiki Otsutsuki",
+    "Village": "Other",
+    "Rank": "Guardian",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 93
+  },
+  {
+    "Name": "Urashiki Otsutsuki",
+    "Village": "Other",
+    "Rank": "Scout",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 91
+  },
+  {
+    "Name": "Isshiki Otsutsuki",
+    "Village": "Other",
+    "Rank": "God",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 99
+  },
+  {
+    "Name": "Zetsu",
+    "Village": "Other",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Wood",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Hiashi Hyuga",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Hizashi Hyuga",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 82
+  },
+  {
+    "Name": "Hanabi Hyuga",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Shikaku Nara",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Shadow",
+    "Power_Level": 85
+  },
+  {
+    "Name": "Inoichi Yamanaka",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 82
+  },
+  {
+    "Name": "Choza Akimichi",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Tsume Inuzuka",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Hana Inuzuka",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 75
+  },
+  {
+    "Name": "Shibi Aburame",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 82
+  },
+  {
+    "Name": "Anko Mitarashi",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Ibiki Morino",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 77
+  },
+  {
+    "Name": "Hayate Gekko",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Yugao Uzuki",
+    "Village": "Konohagakure",
+    "Rank": "Anbu",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 77
+  },
+  {
+    "Name": "Genma Shiranui",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Raido Namiashi",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Aoba Yamashiro",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Kotetsu Hagane",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 72
+  },
+  {
+    "Name": "Izumo Kamizuki",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 72
+  },
+  {
+    "Name": "Ebisu",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 71
+  },
+  {
+    "Name": "Mizuki",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 67
+  },
+  {
+    "Name": "Moegi Kazamatsuri",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 77
+  },
+  {
+    "Name": "Udon Ise",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Boruto Uzumaki",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 88
+  },
+  {
+    "Name": "Sarada Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 85
+  },
+  {
+    "Name": "Mitsuki",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Kawaki",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 92
+  },
+  {
+    "Name": "Shikadai Nara",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 80
+  },
+  {
+    "Name": "Inojin Yamanaka",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Chocho Akimichi",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 77
+  },
+  {
+    "Name": "Metal Lee",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": NaN,
+    "Power_Level": 76
+  },
+  {
+    "Name": "Sumire Kakei",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Shinki",
+    "Village": "Sunagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Magnet",
+    "Power_Level": 83
+  },
+  {
+    "Name": "Yodo",
+    "Village": "Sunagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Araya",
+    "Village": "Sunagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 76
+  },
+  {
+    "Name": "Kagura Karatachi",
+    "Village": "Kirigakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 81
+  },
+  {
+    "Name": "Buntan Kurosuki",
+    "Village": "Kirigakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 77
+  },
+  {
+    "Name": "Shizuma Hoshigaki",
+    "Village": "Kirigakure",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Water",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Mirai Sarutobi",
+    "Village": "Konohagakure",
+    "Rank": "Chunin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 80
+  },
+  {
+    "Name": "Mugino",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 79
+  },
+  {
+    "Name": "Victor",
+    "Village": "Other",
+    "Rank": "Rogue",
+    "Chakra_Nature": "All",
+    "Power_Level": 86
+  },
+  {
+    "Name": "Deepa",
+    "Village": "Other",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 87
+  },
+  {
+    "Name": "Boro",
+    "Village": "Other",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Lava",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Delta",
+    "Village": "Other",
+    "Rank": "Rogue",
+    "Chakra_Nature": NaN,
+    "Power_Level": 90
+  },
+  {
+    "Name": "Code",
+    "Village": "Other",
+    "Rank": "Rogue",
+    "Chakra_Nature": NaN,
+    "Power_Level": 95
+  },
+  {
+    "Name": "Koji Kashin",
+    "Village": "Other",
+    "Rank": "Rogue",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 92
+  },
+  {
+    "Name": "Amado",
+    "Village": "Konohagakure",
+    "Rank": "Scientist",
+    "Chakra_Nature": NaN,
+    "Power_Level": 60
+  },
+  {
+    "Name": "Sakumo Hatake",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Lightning",
+    "Power_Level": 91
+  },
+  {
+    "Name": "Might Duy",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": NaN,
+    "Power_Level": 84
+  },
+  {
+    "Name": "Izuna Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 89
+  },
+  {
+    "Name": "Tajima Uchiha",
+    "Village": "Konohagakure",
+    "Rank": "Leader",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 85
+  },
+  {
+    "Name": "Butsuma Senju",
+    "Village": "Konohagakure",
+    "Rank": "Leader",
+    "Chakra_Nature": "Water",
+    "Power_Level": 85
+  },
+  {
+    "Name": "Nawaki",
+    "Village": "Konohagakure",
+    "Rank": "Genin",
+    "Chakra_Nature": "Earth",
+    "Power_Level": 66
+  },
+  {
+    "Name": "Dan Kato",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Wind",
+    "Power_Level": 82
+  },
+  {
+    "Name": "Shizune",
+    "Village": "Konohagakure",
+    "Rank": "Jonin",
+    "Chakra_Nature": "Water",
+    "Power_Level": 78
+  },
+  {
+    "Name": "Tazuna",
+    "Village": "Land of Waves",
+    "Rank": "Civilian",
+    "Chakra_Nature": NaN,
+    "Power_Level": 20
+  },
+  {
+    "Name": "Inari",
+    "Village": "Land of Waves",
+    "Rank": "Civilian",
+    "Chakra_Nature": NaN,
+    "Power_Level": 15
+  },
+  {
+    "Name": "Gato",
+    "Village": "Land of Waves",
+    "Rank": "Civilian",
+    "Chakra_Nature": NaN,
+    "Power_Level": 25
+  },
+  {
+    "Name": "Teuchi",
+    "Village": "Konohagakure",
+    "Rank": "Civilian",
+    "Chakra_Nature": "Fire",
+    "Power_Level": 50
+  },
+  {
+    "Name": "Ayame",
+    "Village": "Konohagakure",
+    "Rank": "Civilian",
+    "Chakra_Nature": "Water",
+    "Power_Level": 40
+  }
+]
